@@ -1,0 +1,58 @@
+*{
+	margin:0px;
+	padding: 0px; 
+}
+
+body{
+	background-color: #262626;
+	font-size: 14px;
+	color: #4c4c4c;
+	font-family: 'Asap',sans-serif;
+}
+
+.contenedor{
+	 background-color: #ecf0f3;
+	 border:6px outset #ffffff;
+     border-radius: 8px; 
+     margin: 30px auto;
+	 width: 500px;
+	 height: 560px;
+	 -webkit-border-radius:8px;
+	 -moz-border-radius:8px;
+}
+
+.jumbotron{
+	background-color: #bfd8eb;
+	border-radius: 8px 8px 0px 0px;
+	margin-bottom: 0px;
+	padding: 16px;
+	-webkit-border-radius:8px 8px 0px 0px;
+	-moz-border-radius:8px 8px 0px 0px;
+}
+.jumbotron h1{
+	text-align: center;
+}
+.desarrollo{
+	padding: 14px;
+	text-align: justify;
+}
+
+.icon-arrow-right{
+	font-size: 30px;
+	color: #ff0000;
+
+}
+
+a.text{
+	color:#00BFFF ;
+	text-decoration: none;
+	float: right;
+}
+
+a.text:hover{
+	color: #1E90FF;
+	 
+}
+
+
+

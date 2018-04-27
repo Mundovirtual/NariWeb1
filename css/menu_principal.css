@@ -1,0 +1,41 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-size: 12px;
+	background:#262626;
+}
+
+h1.titulo{
+	color:#ffffff; 
+	text-align: center;
+}
+.imagen1 h4{
+	color:red; 
+}
+
+
+ 
+.imagen2{
+	float: right;
+     
+
+
+.imagen1{
+	float: left;
+	 
+
+}
+ 
+
+.imagen3{
+	margin: 0 auto;
+}
+ 
+
+
+
+
+ 
+

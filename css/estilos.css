@@ -1,0 +1,55 @@
+body{
+
+	font-size: 12px;
+	background :#262626;/*262626*/
+}
+/*El escenario*/
+#contenedor{
+
+	width: 380px;
+	margin:50px auto;
+	background-color: #262626;
+	height: 430px;
+	border-radius: 8px;
+	padding: 0px 9px 0px 9px;
+	
+}
+/*Fin*/
+
+/*Titulo de login*/
+h2.titulo{
+	color: #ffff00;
+	text-align: center;
+}
+/*Imagen login*/
+.tamaño{
+	width: 140px;
+	height: 90px;
+}
+.center-block{
+	display: block;
+  margin-left: 100px;
+  margin-right: auto;
+}
+/*fin*/
+
+
+
+
+.registro{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 14px;
+
+}
+
+ 
+
+
+
+
+ 
+
+
+
+
